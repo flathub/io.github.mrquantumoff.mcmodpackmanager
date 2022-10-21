@@ -17,7 +17,7 @@ modules:
   - name: mcmodpackmanager
     buildsystem: simple
     build-commands:
-      - ar -vox minecraft-modpack-manager_ 2.5.1_amd64.deb
+      - ar -vox minecraft-modpack-manager_2.5.1_amd64.deb
       - tar -xpvf data.tar.gz
       - install -Dm755 -t /app/bin usr/bin/minecraft-modpack-manager
       - install -D io.github.mrquantumoff.mcmodpackmanager.metainfo.xml /app/share/metainfo/io.github.mrquantumoff.mcmodpackmanager.metainfo.xml
