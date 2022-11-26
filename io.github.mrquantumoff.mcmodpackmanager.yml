@@ -32,6 +32,6 @@ modules:
       - type: file
         path: io.github.mrquantumoff.mcmodpackmanager.metainfo-flatpak.xml
       - type: file
-        url: https://github.com/mrquantumoff/MinecraftModpackManager/releases/download/v2.6.1/minecraft-modpack-manager_2.6.1_amd64.AppImage
-        sha256: b72d7e9268dd04402c861bd1a7c112b53b40398f856c8f1774c741faad7598cf
+        url: https://github.com/mrquantumoff/MinecraftModpackManager/releases/download/v2.7.0/minecraft-modpack-manager_2.7.0_amd64.AppImage
+        sha256: f6f4f14212b638b93ac5c04447406a28e0391b97471799d4ce48010423d42830
 
