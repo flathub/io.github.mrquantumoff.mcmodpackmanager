@@ -16,13 +16,6 @@ finish-args:
 modules:
   - name: mcmodpackmanager
     buildsystem: simple
-    build-options:
-      build-args:
-        - --share=ipc
-        - --share=network
-        - --filesystem=home
-
-
     build-commands:
       - chmod +x minecraft*.AppImage
       - mv *.AppImage app
