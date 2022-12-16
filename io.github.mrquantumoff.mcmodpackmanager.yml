@@ -4,6 +4,7 @@ runtime: org.gnome.Platform
 runtime-version: '42'
 sdk: org.gnome.Sdk  
 command: minecraft-modpack-manager
+branch: v2
 
 finish-args:
   - --share=ipc
