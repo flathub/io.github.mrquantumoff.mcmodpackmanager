@@ -32,15 +32,25 @@ NOTE: This app and its developer are not affiliated with Mojang Studios.
 </keywords>
 <releases>
 
+<release date="2023-01-01" version="4.1.0">
+  <description>
+    <p>Dark mode support</p>
+  </description>
+</release>
+
 <release date="2023-01-01" version="4.0.0">
   <description>
-    <p>The library was moved to has been moved from MUI to Chakra UI (Redesign)</p>
+    <p>The app was moved to has been moved from MUI to Chakra UI (Redesign)</p>
   </description>
 </release>
 
 <release date="2022-12-11" version="3.0.1"></release>
 
-<release date="2022-12-06" version="3.0.0"></release>
+<release date="2022-12-06" version="3.0.0">
+<description>
+    <p>New modpack installer menu</p>
+</description>
+</release>
 
 
 <release date="2022-11-27" version="2.7.1"></release>
@@ -61,7 +71,11 @@ NOTE: This app and its developer are not affiliated with Mojang Studios.
 
 <release date="2022-10-05" version="2.4.2"></release>
 
-<release date="2022-10-04" version="2.4.1"></release>
+<release date="2022-10-04" version="2.4.1">
+<description>
+    <p>Flatpak release!</p>
+</description>
+</release>
 
 </releases>
 <screenshots>
