@@ -32,6 +32,9 @@ NOTE: This app and its developer are not affiliated with Mojang Studios.
 </keywords>
 <releases>
 
+
+<release date="2023-01-05" version="4.2.0"></release>
+
 <release date="2023-01-02" version="4.1.0">
   <description>
     <p>Dark mode support</p>
