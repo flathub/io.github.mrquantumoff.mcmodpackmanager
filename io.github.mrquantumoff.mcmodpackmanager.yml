@@ -29,5 +29,5 @@ modules:
       - type: file
         path: io.github.mrquantumoff.mcmodpackmanager.metainfo.xml
       - type: file
-        url: https://github.com/mrquantumoff/MinecraftModpackManager/releases/download/v4.3.0/minecraft-modpack-manager_4.3.0_amd64.deb
-        sha256: 13866f6b9ef056bd80929db6f3f7c2e9390d50fac5b84a63d2ceb22dd68a0ed8
+        url: https://github.com/mrquantumoff/MinecraftModpackManager/releases/download/v4.3.1/minecraft-modpack-manager_4.3.1_amd64.deb
+        sha256: e6e532f41f38898c9b103b9750963d199287b0d64f056e17b44d9d78cb04e44f
