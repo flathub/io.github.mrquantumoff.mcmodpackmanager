@@ -27,7 +27,7 @@ modules:
       - install -D usr/share/icons/hicolor/256x256/apps/com.mrquantumoff.mcmodpackmanager.png  /app/share/icons/hicolor/256x256/apps/io.github.mrquantumoff.mcmodpackmanager.png 
     sources:
       - type: file
-        path: io.github.mrquantumoff.mcmodpackmanager.metainfo.xml
+        path: dev.mrquantumoff.mcmodpackmanager.metainfo.xml
       - type: file
         url: https://github.com/mrquantumoff/MinecraftModpackManager/releases/download/v5.0.0/minecraft-modpack-manager_5.0.0_amd64.deb
         sha256: f19a813c5710536e2aae275e67a827c0c2686eb841f01835b6d488ae47c6fae3
