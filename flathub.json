@@ -1,3 +1,4 @@
 {
-  "only-arches": ["x86_64"]
+  "end-of-life": "The application has been renamed to dev.mrquantumoff.mcmodpackmanager.",
+  "end-of-life-rebase": "dev.mrquantumoff.mcmodpackmanager"
 }
