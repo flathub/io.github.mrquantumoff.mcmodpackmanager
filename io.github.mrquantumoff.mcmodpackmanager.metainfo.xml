@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop-application">
-  <id>io.github.mrquantumoff.mcmodpackmanager</id>
+  <id>dev.mrquantumoff.mcmodpackmanager</id>
   <metadata_license>MIT</metadata_license>
   <project_license>BSD-2-Clause</project_license>
   <name>Minecraft Modpack Manager</name>

@@ -1,5 +1,5 @@
 # Flatpak Manifest
-app-id: io.github.mrquantumoff.mcmodpackmanager
+app-id: dev.mrquantumoff.mcmodpackmanager
 runtime: org.gnome.Platform
 runtime-version: '42'
 sdk: org.gnome.Sdk  
